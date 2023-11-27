@@ -14,7 +14,6 @@ import {
   About,
   Contacto,
   Servicios,
-  Curriculum,
   Proyectos,
 } from "../pages/index";
 import { Navbar } from "../components/Navbar/Navbar";
